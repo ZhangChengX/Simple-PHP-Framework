@@ -1,4 +1,4 @@
 Sparkz
 ======
 
-Sparkz is a simple php framework.
+Sparkz is a simple, clear, flexible php framework.
