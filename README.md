@@ -1,4 +1,6 @@
 Sparkz
 ======
 
-Sparkz is a simple, clear, flexible php framework.
+Sparkz moved to Echoo Framework
+
+https://github.com/echoopress/framework
