@@ -1,6 +1,4 @@
 Sparkz
 ======
 
-Sparkz moved to Echoo Framework
-
-https://github.com/echoopress/framework
+A simple, clear, flexible php framework.
